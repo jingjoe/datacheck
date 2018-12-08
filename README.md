@@ -7,5 +7,6 @@
     max_input_time=3600
 
 [MySQL] my.ini
+
     sql_mode=NO_ENGINE_SUBSTITUTION
     event_scheduler = ON
